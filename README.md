@@ -21,7 +21,7 @@ Landing Page institucional desenvolvida para apresentar a Agência XPTO, com foc
 
 ## 🖼️ Preview do Projeto
 
-[<img src="./LandindPage.gif" alt="gif da tela inicial LandinPage">]
+<img src="./redme/LandindPage.gif" alt="gif da tela inicial LandinPage">
 
 
 ## ⚠️ Licença
